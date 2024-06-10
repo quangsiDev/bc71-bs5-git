@@ -1,0 +1,14 @@
+
+git init : khởi tạo repo local
+
+git remote add origin url : kết nối đường dẫn url từ local lên remote ( github )
+
+git remote show origin : hiển thị đường dẫn đang được kết nối
+
+
+git push : đưa source từ local lên remote
+  step 1: git add -A
+  step 2: git commit -m " description "
+  step 3: git push -u origin master (đẩy lần đầu / master là tên nhánh )
+          git push ( lần 2 trở đi, sau khi trên github đã có nhánh master)
+
