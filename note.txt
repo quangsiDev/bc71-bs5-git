@@ -18,8 +18,10 @@ git checkout -b branch : tạo nhánh mới ( branch là tên nhánh / nhớ com
 
 git checkout branch : chuyển nhánh ( nhớ commit)
 
-
 git merge login ( đem code từ nhánh login về nhánh hiện tại)
 
-
 git clone https://github.com/quangsiDev/bc71-bs5-git.git .
+
+git pull : lấy code từ remote về local ( chỉ ảnh hưởng đến nhánh hiện tại  )
+
+
