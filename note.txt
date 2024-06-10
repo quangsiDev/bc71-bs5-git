@@ -14,5 +14,6 @@ git push : đưa source từ local lên remote
 
 git log : hiển thị lịch sử commit
 
-git checkout -b branch
-git checkout branch
+git checkout -b branch : tạo nhánh mới ( branch là tên nhánh / nhớ comit )
+
+git checkout branch : chuyển nhánh ( nhớ commit)
