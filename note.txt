@@ -20,3 +20,6 @@ git checkout branch : chuyển nhánh ( nhớ commit)
 
 
 git merge login ( đem code từ nhánh login về nhánh hiện tại)
+
+
+git clone https://github.com/quangsiDev/bc71-bs5-git.git .
