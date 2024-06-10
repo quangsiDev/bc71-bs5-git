@@ -12,3 +12,4 @@ git push : đưa source từ local lên remote
   step 3: git push -u origin master (đẩy lần đầu / master là tên nhánh )
           git push ( lần 2 trở đi, sau khi trên github đã có nhánh master)
 
+git log : hiển thị lịch sử commit
