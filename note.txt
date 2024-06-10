@@ -13,3 +13,6 @@ git push : đưa source từ local lên remote
           git push ( lần 2 trở đi, sau khi trên github đã có nhánh master)
 
 git log : hiển thị lịch sử commit
+
+git checkout -b branch
+git checkout branch
